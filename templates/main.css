@@ -1,0 +1,66 @@
+
+nav {
+	background-color: slategrey;
+}
+
+container {
+	background-color: salmon !important;
+	padding: 5px;
+	margin: 5px;
+}
+
+.body {
+	min-height: 100vh;
+	margin: 0;
+    background-color: salmon;
+	border-bottom: 20px solid slategrey;
+	padding-top: 1px;
+}
+
+img-thumbnail {
+	max-width: 100%;
+	height: auto;
+}
+
+.icon-bar {
+   background-color:#1e609e !important;
+}
+
+box {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+thumbnail {
+	max-width: 100%;
+	height: auto;
+}
+
+h1 {
+    color: steelblue;
+	border-bottom: 2px solid slategrey;
+}
+
+h3 {
+	color: steelblue;
+}
+col-lg-2 col-md-2 col-sm-12 {
+	background-color: white;
+    padding: 20px;
+	margin: 5px;
+ 
+}
+
+col-lg-8 col-md-8 col-sm-12 {
+	background-color: white;
+    padding: 20px;
+	margin: 5px;
+}
+panel {
+	background-color: ghostwhite;
+	padding: 0px;
+	margin: 5px;
+}
+
+
+
+
